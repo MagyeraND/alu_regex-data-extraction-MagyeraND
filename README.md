@@ -1,6 +1,5 @@
 # alu_regex-data-extraction-MagyeraND
 
-# alu_regex-data-extraction-[YourUsername]
 
 ## Description
 A JavaScript program that uses regex to extract and validate structured data from raw text. Built with security awareness to handle and reject malicious or malformed input.
