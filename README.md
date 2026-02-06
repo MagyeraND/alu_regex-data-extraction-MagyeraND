@@ -2,13 +2,15 @@
 
 
 ## Description
-A JavaScript program that uses regex to extract and validate structured data from raw text. Built with security awareness to handle and reject malicious or malformed input.
+A Python program that uses regex to extract and validate structured data from raw text. Built with security awareness to handle and reject malicious or malformed input.
 
 ## Data Types Extracted
 - Email addresses
 - URLs
 - Phone numbers
 - Currency amounts
+- phone numbers
+- card numbers
 
 ## Security Features
 - Detects and rejects SQL injection and XSS attempts
